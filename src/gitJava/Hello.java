@@ -7,7 +7,7 @@ public class Hello {
 		
 		System.out.println("Hello ");
 		
-		System.out.println("¿À´ÃÀº ¿ù¿äÀÏÀÔ´Ï´Ù.");
+		System.out.println("ì˜¤ëŠ˜ì€ ì›”ìš”ì¼ì…ë‹ˆë‹¤.");
 	}
 
 }
